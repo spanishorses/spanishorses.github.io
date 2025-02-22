@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Hello, we are  `spanish horses`, and you have just landed to our home page.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
