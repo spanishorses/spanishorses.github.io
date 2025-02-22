@@ -5,7 +5,7 @@ Hello, we are  `spanish horses`, and you have just landed to our home page.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another page](./upcoming-concerts.html).
 
 There should be whitespace between paragraphs.
 
